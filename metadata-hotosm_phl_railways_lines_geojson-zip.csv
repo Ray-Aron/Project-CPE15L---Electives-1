@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2024-01-23T08:46:55.368327
+description,Description,GeoJSON
+format,File Format,GeoJSON
+download_url,Download URL,https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/railways/lines/hotosm_phl_railways_lines_geojson.zip
+id,Resource ID,e59adf63-fd7b-468e-b546-c986f16d8056
+last_modified,Updated,2025-01-17T01:45:22.299001
+metadata_modified,Metadata Updated,2025-01-17T01:51:08.893670
+microdata,Microdata,False
+dataset_id,Dataset ID,8e67f808-1474-4a17-8cb9-e43643c17c11
+resource_type,Resource Type,api
+name,Resource Name,hotosm_phl_railways_lines_geojson.zip
+mimetype,MIME Type,
+size,Size,53.7K
